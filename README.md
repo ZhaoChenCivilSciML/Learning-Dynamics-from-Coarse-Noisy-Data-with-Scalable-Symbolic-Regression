@@ -5,5 +5,13 @@ Distilling equations from data can provide insights into physics systems, helpin
 
 ## Citation
 <pre>
-
+@article{chen2023learning,
+  title={Learning dynamics from coarse/noisy data with scalable symbolic regression},
+  author={Chen, Zhao and Wang, Nan},
+  journal={Mechanical Systems and Signal Processing},
+  volume={190},
+  pages={110147},
+  year={2023},
+  publisher={Elsevier}
+}
 </pre>
